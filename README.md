@@ -282,12 +282,12 @@ MIT License
 ## Support
 
 For issues and questions:
-- GitHub Issues: https://github.com/yourusername/purchase_approval/issues
-- Email: your@email.com
+- GitHub Issues: https://github.com/MaverickKrushna/purchase_approval/issues
+- Email: krushnachsahu089@gmail.com 
 
 ## Contributors
 
-- Your Name (your@email.com)
+- Your Name (Kushna Chandra Sahu )
 
 ---
 
