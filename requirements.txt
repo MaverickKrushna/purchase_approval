@@ -1,0 +1,27 @@
+# Purchase Approval App - Python Dependencies
+
+# Core framework (installed separately via bench)
+# frappe
+# erpnext
+
+# No additional Python packages required for this app
+# All functionality is built using standard Frappe/ERPNext APIs
+
+# If you were to add custom features requiring additional packages, 
+# you would list them here. For example:
+#
+# For advanced data processing:
+# pandas>=1.3.0
+# numpy>=1.21.0
+#
+# For external API calls:
+# requests>=2.26.0
+#
+# For PDF generation:
+# reportlab>=3.6.0
+#
+# For Excel file handling:
+# openpyxl>=3.0.0
+#
+# For email parsing:
+# email-validator>=1.1.0
